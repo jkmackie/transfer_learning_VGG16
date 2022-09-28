@@ -1,6 +1,6 @@
 # transfer_learning_VGG16
 
-[//]: ![looking_up_tree](tree_up1_compressed.jpg)
+![looking_up_tree](tree_up1_compressed.jpg)
 
 * Details in the two article series:
 
