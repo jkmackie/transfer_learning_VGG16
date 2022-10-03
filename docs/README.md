@@ -10,5 +10,3 @@
 
 * [Fourier and Bispectral Analysis of Signals](https://www.linkedin.com/posts/justinmackie_fourier-and-bispectral-analysis-of-signals-activity-6980987606071209984-Nmnd?utm_source=share&utm_medium=member_desktop)
  
----
-Please use joblib.load('signals.joblib') to get the signals into a pandas.DataFrame.  The dataset is in the images folder.  The classes are dc (developed cavitation) and nc (no cavitation).
